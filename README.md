@@ -57,7 +57,7 @@ The client expects the following endpoints from the server:
 -   **State Management**: `setState` (Simple)
 -   **HTTP Client**: `http` package
 -   **Icons**: Material Icons & Cupertino Icons
--   **Backend**: Python (Flask) - *See [torrent-server](https://github.com/tetolinuxs/torrent-server)*
+-   **Backend**: Python (Flask) - *See [torrent_server](https://github.com/tetolinuxs/torrent_server)*
 
 ## 📸 Screenshots
 
